@@ -4,7 +4,7 @@
 check it for wifi kick out , by ADAMZ
 
 
-git clone 
+git clone https://github.com/psycothegamer/ADAMZ-WIFI-CRACKER.git
 
 
 ls
