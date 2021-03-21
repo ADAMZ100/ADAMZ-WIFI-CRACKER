@@ -3,7 +3,6 @@
 
 ################################
 # CREATOR: ADAMZ
-# Date: 20/03/2020
 # ABOUT: ADAMZ HELPS YOU TO TAKING FUN FOR YOU. JUST FOLLOW ME FOR MORE.
 
 tput setaf 1; echo " 
