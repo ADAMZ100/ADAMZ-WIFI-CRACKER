@@ -4,6 +4,9 @@
 check it for wifi kick out , by ADAMZ
 
 
+sudo su (root permission needed)
+
+
 git clone https://github.com/psycothegamer/ADAMZ-WIFI-CRACKER.git
 
 
