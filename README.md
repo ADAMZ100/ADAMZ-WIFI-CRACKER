@@ -23,7 +23,7 @@ chmod +x adamz-wifi.sh
 
  if its not working chmod try it other
  
-  or
+        or
       
 chmod +x 777
 
