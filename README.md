@@ -19,4 +19,17 @@ ls
 cd adamz-wifi.sh
 
 
+chmod +x adamz-wifi.sh
+
+ if its not working chmod try it other
+ 
+  or
+      
+chmod +x 777
+
+        or
+        
+chmod +x *
+
+
 bash adamz-wifi.sh
